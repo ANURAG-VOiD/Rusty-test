@@ -39,3 +39,4 @@ fn array()
     println!("the values of the array is{}",dim);
     println!("the values of the array is{}",tim);
 }
+//my contribution
